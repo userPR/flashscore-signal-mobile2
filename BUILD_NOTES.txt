@@ -1,0 +1,8 @@
+Bu çalışma ortamında Android SDK / Gradle derleme zinciri kurulu olmadığı için binary APK burada derlenemedi.
+Kaynak Android Studio projesi hazırdır.
+
+Doğrulamalar:
+- monitor.js: node --check OK
+- detail.js: node --check OK
+- dashboard/app.js: node --check OK
+- Java kaynaklarında sözdizimi taraması yapıldı; Android SDK sınıfları bu ortamda bulunmadığı için tam javac derlemesi yapılamadı.
